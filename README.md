@@ -1,9 +1,9 @@
-### Olá, me chamo Lucas Ruano
+### Hello, my name is Lucas Ruano
 ##
-Focado, comunicativo, adaptativo.<br/>
-Apaixonado por desenvolvimento mobile. <br/>
-Estou aberto a aprender novas linguagens e enfrentar <br/>
-desafios em outras áreas além do mobile.
+Focused, communicative, adaptive.<br/>
+Passionate about mobile development. <br/>
+I am open to learning new languages and facing <br/>
+challenges in areas other than mobile.
 ##
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruano15&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=ruano15&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
