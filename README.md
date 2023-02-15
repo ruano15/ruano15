@@ -9,7 +9,7 @@ challenges in areas other than mobile.
 ![](https://github-readme-stats.vercel.app/api?username=ruano15&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ##
 <p>
-  <a href="https://www.android.com/intl/pt-BR_br/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40"    height="40"/></a>
+  <a href="https://play.google.com/store/apps/developer?id=Joker+Produ%C3%A7%C3%B5es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40"    height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"      alt="Javascipt" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"              width="40" height="40"/></a>
   <a href="https://www.java.com/pt-BR/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
