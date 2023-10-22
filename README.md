@@ -20,9 +20,9 @@
   
   <p>
     - 💻 &nbsp; Java <br/>
-    - 🌐 &nbsp; Android | HTML | CSS | JavaScript <br/>
-    - 🛢 &nbsp; MySQL <br/>
-    - 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git <br/>
+    - 🌐 &nbsp; Android | HTML | CSS | JavaScript | TypeScript <br/>
+    - 🛢 &nbsp; MySQL | PostgreSQL <br/>
+    - 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git | Vercel <br/>
     - 🖥 &nbsp; CorelDraw | Photoshop | Premiere <br/>
   </p>
 </div>
